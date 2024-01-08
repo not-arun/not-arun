@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arun
-- 👀 I love coding, carrom and football
+- 👀 I love coding, carrom, chess and football
 - 📫 Insta - @not.arun._
 
 <!---
